@@ -1,6 +1,6 @@
-% Hausaufgabe 03
-% Phillip Alday <phillip.alday@staff.uni-marburg.de>
-% 2014-04-28
+# Hausaufgabe 03
+# Maika Lubig <Lubigm@students.uni-marburg.de>
+# 2014-04-28
 
 Falls die Umlaute in dieser und anderen Dateien nicht korrekt dargestellt werden, sollten Sie File > Reopen with Encoding > UTF-8 sofort machen (und auf jeden Fall ohne davor zu speichern), damit die Enkodierung korrekt erkannt wird! 
 
