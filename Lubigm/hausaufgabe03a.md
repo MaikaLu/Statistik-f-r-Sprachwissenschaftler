@@ -27,12 +27,12 @@ Der Index bzw. das Staging Area ist ein vorläufiger Commit, an dem Sie gerade a
 Es gibt in RStudio und im Internet **viel** zu Markdown. RStudio nutzt einen besonderen Dialekt, damit auch R-Code-Blöcke eingebaut werden können, aber der Großteil der "Syntax" ändert sich nicht. Fügen Sie hier eine ungeordnete Liste hier mit zumindest zwei Erwartungen von diesem Kurs ein. Testen Sie, dass Sie das korrekt formatiert haben, indem Sie auf "Knit HTML" klicken und schauen, dass die Liste mit Punkten erscheint.  
 
 list_hier
-
 <pre><code>**Meine Erwartungen an diesen Kurs sind:**
 <ul><li><p>eigene zukünftige Erhebungen statistisch mit der richtigen Methode auszuwerten und interpretieren zu können</p></li>
 <li><p>einen kritschen Blick für die Methoden bzw. Auswertungen wissenschaftlicher Datensätze zu entwickeln</p></li>
 <li><p>die Möglichkeiten von Statistik im Allgemeinen kennenzulernen</p></li>
 <li><p>"Mathematik" endlich sinnvoll und mit Freude anzuwenden</p></li><pre><code></ul>
+  
 
 ## R-Code-Blöcke
 
@@ -86,11 +86,12 @@ print(carplot)
 
 
 ## Inline R-Code
-R-Code können Sie auch direkt in den Fließtext bauen: Die Quadratwurzel von 13 ist 3.6056. Passen Sie dabei auf, dass die verschiedenen Arten von Aposostrophen, Anführungszeichnen und Akzenten in den meisten Programmiersprachen bedeutsam sind!
+R-Code können Sie auch direkt in den Fließtext bauen: Die Quadratwurzel von 13 ist 3.6056. Passen Sie dabei auf, dass die verschiedenen Arten von Apostrophen, Anführungszeichnen und Akzenten in den meisten Programmiersprachen bedeutsam sind!
 
 Ergänzen Sie folgende Zeile mit Inline R-code, sodass der Satz korrekt und vollständig ist:
 
-Die Summe von 98545455678767 und 567886538546532323 ist: code_hier .
+Die Summe von 98545455678767 und 567886538546532323 ist:**[5.679851e+17]**
+
 
 # Normaler R-Code 
 Es ist natürlich auch möglich R-Code zu schreiben, ohne ihn in (R)Markdown einzubetten. Dazu geht die Aufgabe weiter mit `hausaufgabe03b.R` weiter. Sie sollten die Datei auch in Ihren Ordner kopieren und einen Commit machen, bevor Sie die Kopie weiter anpassen.
