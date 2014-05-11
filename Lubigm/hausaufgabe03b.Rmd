@@ -3,7 +3,7 @@
 # Hausaufgabe 03
 # Maika Lubig <Lubigm@students.uni-marburg.de>
 # 2014-04-28
-# Lizenz: **Diese Datei darf weiter als Beispiel genutzt werden.**
+# Diese Datei darf weiter als Beispiel genutzt werden.
 <hr />
 
 # Sie sollten die Datei auch in Ihren Ordner kopieren und einen Commit machen, 
