@@ -141,6 +141,8 @@ Ich habe die Grenzen der Grafik ein bisschen breiter gestellt, sodass man die En
 
 Welche Verteilung sieht am fairsten aus? Warum?
 
+Die Standardabweichung P 3 ist am fairsten, weil hierbei die        Daten am weitesten verstreut sein können. In der Regel ist die Standardabweichung bei der Notengebung nicht so hoch (eher P4 oder sogar P5) 
+
 Wir können das konkreter machen: welcher Anteil der Studenten bekommt bei den jeweiligen Verteilungen eine 1 (zumindest 13 NP)? Für die Verteilung mit $\sigma = 3$ sieht die Berechnung mit R so aus:
 
 ```r
@@ -362,4 +364,4 @@ Gibt es einen Grund, weshalb die Noten normal verteilt sein sollten? Warum ist d
 
 
 # Lizenz
-Dieses Werk ist lizenziert unter einer CC-BY-NC-SA Lizenz.
+Dieses Werk ist lizenziert unter einer CC-BY-NC-SA Lizenz und darf weiter als Beispiel genutzt werden.
