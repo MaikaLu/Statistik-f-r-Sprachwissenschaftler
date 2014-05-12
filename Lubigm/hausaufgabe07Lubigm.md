@@ -184,8 +184,12 @@ for (s in c(3, 4, 5)) {
 
 
 Aber wir hoffen alle, dass wir doch eine gute Note bekommen. Fügen Sie einen Code-Block hier ein, der das gleiche aber mit "ausgezeichneten" Noten (=1 bzw. >= 13) macht. (Bei evtl. Copy-Paste nicht vergessen, "fallen...durch" durch etwas Passendes zu ersetzen!)  
+pnorm(13, mean =mu, sd=3,lower.tail =FALSE)
 
-code_block_hier
+for(s in c(13,14,15)){
+  Ausgezeichnet <- pnorm(13,mean =mu,sd=3)
+  output <- paste("Bei einer Standabweichung von",s, "aus",ausgezeichnet*100,"% gezeichnet.")
+print(output)
 
 Wie steht die Anzahl guter Noten in Beziehung zur Anzahl schlechter Noten? 
 
