@@ -1,7 +1,7 @@
 # Hausaufgabe 09
-# Phillip Alday <phillip.alday@staff.uni-marburg.de>
-# 2014-05-02
-# Dieses Werk ist lizenziert unter einer CC-BY-NC-SA Lizenz.
+# Maika <Lubigm@students.uni-marburg.de>
+# 2014-05-19
+# Dieses Werk ist lizenziert unter einer CC-BY-NC-SA Lizenz und darf als Beispiel genutzt werden.
 
 
 # Die nächsten Punkte sollten langsam automatisch sein...
